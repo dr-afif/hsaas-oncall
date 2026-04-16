@@ -1,5 +1,5 @@
 {
-  "last_updated": "15-04-2026",
+  "last_updated": "16-04-2026",
   "timetable": {
     "range": "Timetable!A2:AT1001",
     "majorDimension": "ROWS",
@@ -622,7 +622,7 @@
         "ADAM",
         "UMI",
         "HUMAIRAH\nHUSNA\nAINN",
-        "NISHA\nMAHFUZAH",
+        "\nMAHFUZAH",
         "SITI KHADIJAH",
         "NABILAH"
       ],
@@ -657,7 +657,7 @@
         "MAHFUZAH",
         "ADAM",
         "HUMAIRAH\nHUSNA\nAINN",
-        "NISHA\nMAHFUZAH\nUMI",
+        "\nMAHFUZAH\nUMI",
         "NUR ANIS",
         "NABILAH"
       ],
